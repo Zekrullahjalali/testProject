@@ -1,2 +1,2 @@
 # testProject
-This is a test project of laravel framework of php
+This is a test project of laravel framework 
